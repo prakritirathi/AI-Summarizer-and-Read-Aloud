@@ -1,10 +1,10 @@
-# 🔊 Chrome Extension: AI Voice Assistant for the Visually Impaired
+#  Chrome Extension: AI Voice Assistant for people with disability
 
-## 🧠 Overview
+## Overview
 
 This Chrome Extension is designed to help *visually impaired, blind, and dyslexic users* access and understand web content independently. It summarizes webpage content using *Gemini API* and reads it aloud via the *Web Speech API*. Users can also choose summary formats and copy the content with keyboard shortcuts.
 
-## 🛠️ Built With
+## Built With
 
 - *JavaScript*
 - *Gemini API* – For summarization
@@ -13,7 +13,7 @@ This Chrome Extension is designed to help *visually impaired, blind, and dyslexi
 
 ## Features
 
-- 📖 *Summarize Web Content*  
+- *Summarize Web Content*  
   Choose from:
   - Brief Summary
   - Bullet Points
@@ -29,7 +29,7 @@ This Chrome Extension is designed to help *visually impaired, blind, and dyslexi
   - 3 – Get Bullet Point Summary
   - Tab – Copy Summary to Clipboard
 
-- 🔗 *Cross-Platform Integration*  
+  -*Cross-Platform Integration*  
   Shared login with our web app. Copied summaries are saved to the user’s online profile automatically.
 
 ##  Login System
